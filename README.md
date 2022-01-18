@@ -59,4 +59,4 @@
 * [Linux内核参数的配置方法](https://github.com/mz1999/Apusic-db-team/blob/master/docs/linux-kernel-parameter.md)
 
 ---
-*[my blog](./my_docs/README.md)
+* [my blog](./my_docs/README.md)
