@@ -1,6 +1,11 @@
-# blog
-
 #### AAS V10 分析
-1.  [AASV10启动流程。](./doc/AASV10启动流程.md)
-2.  [AASV10 所有的Activators](./doc/AASV10_Activator.md)
+* [AASV10启动流程。](./AASV10/AASV10启动流程.md)
+* [AASV10 所有的Activators](./AASV10/AASV10_Activator.md)
 
+---
+
+- [shell trick](./Shell_Command.md)
+
+------
+
+- [git trick](./git.md)
